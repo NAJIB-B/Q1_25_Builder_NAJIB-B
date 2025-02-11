@@ -10,3 +10,9 @@
 [submodule "anchor-spl-token-vault"]
 	path = anchor-spl-token-vault
 	url = https://github.com/NAJIB-B/anchor-spl-token-vault
+[submodule "nft-marketplace"]
+	path = nft-marketplace
+	url = https://github.com/NAJIB-B/NFT-Marketplace
+[submodule "anchor-amm"]
+	path = anchor-amm
+	url = https://github.com/NAJIB-B/anchor-amm
