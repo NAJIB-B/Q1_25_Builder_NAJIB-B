@@ -16,3 +16,6 @@
 [submodule "anchor-amm"]
 	path = anchor-amm
 	url = https://github.com/NAJIB-B/anchor-amm
+[submodule "capstone"]
+	path = capstone
+	url = https://github.com/NAJIB-B/decentralized-estate-management-system.git
